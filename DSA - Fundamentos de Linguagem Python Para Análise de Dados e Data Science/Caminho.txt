@@ -1,0 +1,5 @@
+Caminho cmd 
+
+C:\Users\walla\OneDrive\Área de Trabalho\Scripts\Aprendizado Python\DSA - Fundamentos de Linguagem Python Para Análise de Dados e Data Science
+
+cd C:\Users\walla\OneDrive\Área de Trabalho\Scripts\Aprendizado Python\DSA - Fundamentos de Linguagem Python Para Análise de Dados e Data Science\Cap 02
