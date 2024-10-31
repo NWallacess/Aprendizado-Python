@@ -1,0 +1,1 @@
+Não foi possivel por o grafico de radar e publicar por eu não ter conta corporativa e de estudante.
